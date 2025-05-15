@@ -1,10 +1,10 @@
 # GitHub Pages Demo
 
-This project demonstrates the deployment of a static website using GitHub Actions and GitHub Pages.
+This repository contains a static website.
 
-## Deployed Site
-[Visit the live site](https://minahilsiddiqui.github.io/gh-pages-demo/)
+## Contents
+- `src/`: The folder containing the website's files.
+  - [`index.html`](src/index.html): The main HTML file.
+  - [`style.css`](src/style.css): The CSS file.
 
-## Features
-- Static website with basic HTML and CSS
-- Automated deployment workflow
+Visit the [src/ folder](src/) to view the website files.
