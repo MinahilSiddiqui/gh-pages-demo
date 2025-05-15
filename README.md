@@ -1,6 +1,13 @@
 # GitHub Pages Demo
 
 This repository contains a static website.
+
+## View the Site
+[Open the website in a new tab](https://<your-github-username>.github.io/gh-pages-demo/)  
+
+## Contents
+- `src/`: The folder containing the website's files.
+  - [`index.html`](https://<your-github-username>.github.io/gh-pages-demo/): The main HTML file.
 # Budget Tracker
 
 This project is a simple web-based **Budget Tracker** application that allows users to manage their income and expenses. It is a lightweight tool for tracking financial transactions and calculating the remaining balance dynamically.
